@@ -1,0 +1,9 @@
+{
+    "name": "Sumit",
+    "age": 28,
+    "skills": [
+        "C++",
+        "Qt",
+        "AUTOSAR"
+    ]
+}

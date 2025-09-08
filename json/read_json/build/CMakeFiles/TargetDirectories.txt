@@ -1,0 +1,3 @@
+/home/winner/git_projects/C-Practice_projects/json/read_json/build/CMakeFiles/json_app.dir
+/home/winner/git_projects/C-Practice_projects/json/read_json/build/CMakeFiles/edit_cache.dir
+/home/winner/git_projects/C-Practice_projects/json/read_json/build/CMakeFiles/rebuild_cache.dir
