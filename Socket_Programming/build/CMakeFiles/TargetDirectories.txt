@@ -1,0 +1,4 @@
+/home/winner/C-Practice_projects/Socket_Programming/build/CMakeFiles/server.dir
+/home/winner/C-Practice_projects/Socket_Programming/build/CMakeFiles/client.dir
+/home/winner/C-Practice_projects/Socket_Programming/build/CMakeFiles/edit_cache.dir
+/home/winner/C-Practice_projects/Socket_Programming/build/CMakeFiles/rebuild_cache.dir

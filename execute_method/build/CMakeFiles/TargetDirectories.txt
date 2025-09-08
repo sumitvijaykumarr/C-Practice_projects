@@ -1,0 +1,3 @@
+/home/winner/C-Practice_projects/execute_method/build/CMakeFiles/socket_app.dir
+/home/winner/C-Practice_projects/execute_method/build/CMakeFiles/edit_cache.dir
+/home/winner/C-Practice_projects/execute_method/build/CMakeFiles/rebuild_cache.dir

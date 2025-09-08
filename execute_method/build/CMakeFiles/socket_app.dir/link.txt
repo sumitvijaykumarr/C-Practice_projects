@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/socket_app.dir/src/Application.cpp.o CMakeFiles/socket_app.dir/src/main.cpp.o -o socket_app 
