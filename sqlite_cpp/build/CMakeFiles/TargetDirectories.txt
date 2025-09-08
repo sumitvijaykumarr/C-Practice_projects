@@ -1,0 +1,3 @@
+/home/winner/C-Practice_projects/sqlite_cpp/build/CMakeFiles/demo.dir
+/home/winner/C-Practice_projects/sqlite_cpp/build/CMakeFiles/edit_cache.dir
+/home/winner/C-Practice_projects/sqlite_cpp/build/CMakeFiles/rebuild_cache.dir

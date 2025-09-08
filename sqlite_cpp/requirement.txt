@@ -1,0 +1,5 @@
+sudo apt-get install libsqlite3-dev
+git clone https://github.com/SRombauts/SQLiteCpp.git
+cd SQLiteCpp && mkdir build && cd build
+cmake .. && make -j4
+sudo make install
