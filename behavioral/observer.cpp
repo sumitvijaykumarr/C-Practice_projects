@@ -9,16 +9,16 @@ class Observer{
     public:
         // double humidity, temperature, pressure;
         virtual void update(double humidity, double temperature, double pressure) = 0;
-    virtual ~Observer();
-}
+    virtual ~Observer(){}
+};
 
 class Subject{
     public:
     virtual void registerObserver(Observer* observer) = 0;
     virtual void removeObserver(Observer* observer) = 0;
     virtual void notifyObserver() = 0;
-    virtual ~Subject();
-}
+    virtual ~Subject(){};
+};
 
 
 class WeatherStation : public Subject{
@@ -41,9 +41,9 @@ class WeatherStation : public Subject{
     }
 
     void setMeasureMents(double t, double h, double p){
-        temperature = t;
-        humidity = h;
-        pressure = p;
+        temp = t;
+        hum = h;
+        press = p;
         notifyObserver();
     }
 };
@@ -54,7 +54,7 @@ class Display : public Observer{
     void update(double temperature, double humidity, double pressure) override{
         std::cout<<"Temperature = "<<temperature
                 <<"Humidity = "<<humidity
-                <<"Pressure = "<<pressure;
+                <<"Pressure = "<<pressure<<std::endl;
     }
 };
 
